@@ -27,3 +27,8 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
 
 <br>
 
+### Tools & Technologies I'm Using:
+
+#### Version Control: 
+  ![Git Icon](https://github.com/onemarc/tech-icons/raw/main/icons/git.svg) 
+  ![GitHub Icon](https://github.com/onemarc/tech-icons/raw/main/icons/github.svg)
