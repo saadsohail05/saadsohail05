@@ -49,19 +49,20 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/knime/knime-icon.svg" alt="knime" width="40" height="40"/>
-  </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/>
+    </a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/images/logo.png" alt="langchain" width="40" height="40"/>
+    </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+    </a>
+    <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Knime_logo.svg/2560px-Knime_logo.svg.png" alt="knime" width="40" height="40"/>
+    </a>
 </p>
+
 
 
 
