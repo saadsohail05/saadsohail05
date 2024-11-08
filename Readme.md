@@ -8,7 +8,7 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   
   [![Linkedin Badge](https://img.shields.io/badge/-saadsohail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadsohail5104/)](https://www.linkedin.com/in/saadsohail5104/)
   [![Medium Badge](https://img.shields.io/badge/-@saadsohail-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@saadsohail5104/)](https://saadsohail5104.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-saadsohail5104@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadsohail5104@gmail.com)](mailto:saadsohail5104@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-saadsohail5104-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadsohail5104@gmail.com)](mailto:saadsohail5104@gmail.com)
 </div>
 <br>
 
