@@ -30,8 +30,6 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
 ### Tools & Technologies I'm Using:
 
 #### Version Control: 
-<p align="center">
-    <img src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg" width="30" style="display:inline-block;"> 
-    <img src="https://github.com/onemarc/tech-icons/raw/main/icons/github.svg" width="30" style="display:inline-block;">
-  </p>
+ <img src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg" width="30" style="display:inline-block; margin-right:10px;"> 
+  <img src="https://github.com/onemarc/tech-icons/raw/main/icons/github.svg" width="30" style="display:inline-block;">
 
