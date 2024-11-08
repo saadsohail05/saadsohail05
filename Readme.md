@@ -92,6 +92,7 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadsohail05&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
