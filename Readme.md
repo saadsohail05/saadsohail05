@@ -11,19 +11,6 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   [![Medium Badge](https://img.shields.io/badge/-@saadsohail-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@saadsohail5104/)](https://saadsohail5104.medium.com)
   [![Gmail Badge](https://img.shields.io/badge/-saadsohail5104-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadsohail5104@gmail.com)](mailto:saadsohail5104@gmail.com)
 </div>
-<br>
-
-
-### What I always play with
-<p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
-</p>
 
 <br>
 
