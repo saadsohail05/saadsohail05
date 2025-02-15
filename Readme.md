@@ -1,5 +1,5 @@
 <!-- ![](https://github.com/saadsohail05/saadsohail05/blob/main/header_.png) -->
-<h1 align="center">👋 Hello! I'm Saad Sohail</h1>
+<h1 align="center">👋 Hello! I'm Saad</h1>
 
 <p align="center">
 I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep Learning, and Generative AI. I'm actively engaged in projects focused on AI, particularly the development and exploration of Large Language Models (LLMs) and Deep Learning Techniques.
