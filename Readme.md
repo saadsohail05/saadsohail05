@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=1200&height=90&lines=Welcome!+%E3%83%84;Hi%2C+I'm+Saad.;I'm+from+Pakistan.;I'm+an+ML%2FAI+Engineer%2C+also+working+in+Deep+Learning+R%26D.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&height=80&lines=Welcome!+%E3%83%84;Hi%2C+I'm+Saad.;I'm+from+Pakistan.;I'm+an+AI+and+ML+Engineer.)](https://git.io/typing-svg)
 
 <!-- ![](https://github.com/saadsohail05/saadsohail05/blob/main/header_.png)
 <h1 align="center">👋 Hello! I'm Saad</h1>
