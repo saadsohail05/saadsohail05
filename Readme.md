@@ -18,11 +18,9 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   [![Gmail Badge](https://img.shields.io/badge/-saadsohail5104-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadsohail5104@gmail.com)](mailto:saadsohail5104@gmail.com)
 </div>
 
-<br>
-
 ### Languages and Tools:
 
-<div align="left">
+<div align="left" style="margin-bottom: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:32px;" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:32px;" alt="github logo"  />
@@ -97,12 +95,6 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height:32px;" alt="sqlite logo"  />
 </div>
-
-<br>
-<br>
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadsohail05&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div> -->
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
