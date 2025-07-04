@@ -1,9 +1,15 @@
-<!-- ![](https://github.com/saadsohail05/saadsohail05/blob/main/header_.png) -->
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
+</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=1200&height=90&lines=Welcome!+%E3%83%84;Hi%2C+I'm+Saad.;I'm+from+Pakistan.;I'm+an+ML%2FAI+Engineer%2C+also+working+in+Deep+Learning+R%26D.)](https://git.io/typing-svg)
+
+<!-- ![](https://github.com/saadsohail05/saadsohail05/blob/main/header_.png)
 <h1 align="center">👋 Hello! I'm Saad</h1>
 
 <p align="center">
 I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep Learning, and Generative AI. I'm actively engaged in projects focused on AI, particularly the development and exploration of Large Language Models (LLMs) and Deep Learning Techniques.
-</p>
+</p> -->
 
 <div align="center">
   
@@ -97,3 +103,7 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadsohail05&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+</a>
