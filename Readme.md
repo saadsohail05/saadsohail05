@@ -27,6 +27,7 @@ My recent work involves **Hyperspectral Imaging**, and I enjoy working at the co
 My research interests include **deep learning**, **hyperspectral imaging**, **NLP (LLMs)**, and **computer vision**.
 
 You can view my research work on [**Google Scholar**](https://scholar.google.com/citations?user=Ta_eFpEAAAAJ&hl=en&oi=ao).  
+I also share technical blogs and insights on [**Medium**](https://saadsohail5104.medium.com).  
 I am open to collaborating on impactful and research-driven projects.
 
 ### Languages and Tools:
