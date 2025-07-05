@@ -18,6 +18,17 @@ I'm a final-year student at FAST-NUCES, specializing in Machine Learning, Deep L
   [![Gmail Badge](https://img.shields.io/badge/-saadsohail5104-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadsohail5104@gmail.com)](mailto:saadsohail5104@gmail.com)
 </div>
 
+## About Me
+
+I graduated with a **Bachelor’s degree in Computer Science** from **FAST-NUCES** in **2025**.  
+Currently, I am working as an **AI/ML Engineer** with a focus on **Deep Learning R&D**.
+
+My recent work involves **Hyperspectral Imaging**, and I enjoy working at the confluence of deep learning and hyperspectral imaging.  
+My research interests include **deep learning**, **hyperspectral imaging**, **NLP (LLMs)**, and **computer vision**.
+
+You can view my research work on [**Google Scholar**](https://scholar.google.com/citations?user=Ta_eFpEAAAAJ&hl=en&oi=ao).  
+I am open to collaborating on impactful and research-driven projects.
+
 ### Languages and Tools:
 
 <div align="left" style="margin-bottom: 0;">
